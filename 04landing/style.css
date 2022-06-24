@@ -43,5 +43,5 @@ p {
 .btn:hover {
     color: #FFF;
     box-shadow: 0 0 30px 20px rgb(19,58,148) inset;
-    border-color: #FFF;
+    border-color: rgb(19,58,148);
 }
