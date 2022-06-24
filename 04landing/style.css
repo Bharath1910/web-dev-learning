@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Potta+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anek+Latin:wght@500;800&display=swap');
+
+html {
+    background: rgb(19,58,148);
+    background: linear-gradient(90deg, rgba(19,58,148,1) 0%, rgba(145,155,255,1) 100%); 
+    color: aliceblue;
+}
+
+h1 {
+    font-family: 'Potta One';
+    font-size: 70px;
+    text-align: center;
+    margin-top: 20%;
+    font-weight: 600;
+}
+
+p {
+    font-family: 'Anek Latin';
+    letter-spacing: 3px;
+    text-align: center;
+    font-size: 25px;
+    margin-top: -24px;
+}
+
+.btn {
+    background-color: transparent;
+    display: block;
+    margin: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-size: 30px;
+    border-radius: 6px;
+    color: rgb(19,58,148);
+    border-color: rgb(19,58,148);
+    transition: color 300ms ease-in-out, box-shadow 300ms ease-in-out, border-color 300ms ease-in-out;
+}
+
+.btn:hover {
+    color: #FFF;
+    box-shadow: 0 0 30px 20px rgb(19,58,148) inset;
+    border-color: #FFF;
+}

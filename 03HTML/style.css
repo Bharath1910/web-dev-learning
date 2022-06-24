@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;700&display=swap');
+
+html {
+    background-color: #242F9B;
+    font-size: 25px;
+}
+
+h1 {
+    background-color: #646FD4;
+    border-radius: 9px;
+    border-style: solid;
+    padding: 15px;
+    font-size: 50px;
+    font-family: 'Oswald';
+    font-weight: 700;
+    letter-spacing: 5px;
+}
+
+.white {
+    color: #DFF6FF;
+}
+
+.center {
+    text-align: center;
+}
+
+footer {
+    background-color: #646FD4;
+    color: aliceblue;
+    border-radius: 9px;
+    padding: 20px;
+    border-style: solid;
+}
+hr {
+    color: aliceblue;
+    border-width: 3px;
+    border: solid
+}
+
+.post {
+    background-color: #646FD4;
+    border-radius: 9px;
+    padding: 10px;
+    border-style: dashed;
+    border-color: #9BA3EB;
+
+    transition: border-color 100ms ease-in-out;
+}
+
+.post:hover{
+    border-color: #eeeeee;
+}
+
+.read-more {
+    background-color: #9BA3EB;
+    border-radius: 9px;
+    padding: 10px;
+    color: #242F9B;
+}
+
+.navbar {
+    background-color: #eeeeee;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    background-color: #646FD4;
+    border-radius:9px;
+    border-style: solid;
+    border-color: #eeeeee;
+    
+}
+
+.btn {
+    width: 22%;
+    height: 50px;
+    margin: 10px;
+    font-size: 25px;
+    font-weight: 500;
+    padding-top: 3px;
+    padding-bottom: 3px;
+
+    background-color: #242F9B;
+    color: #eeeeee;
+    border-radius: 5px;
+    border-color: #eeeeee;
+}
+
+.btn:hover {
+    color: #242F9B;
+    background-color: #9BA3EB;
+}
+
+a {
+    color: #242F9B;
+    font-weight: 700;
+}
+.ani {
+    transition: color 100ms ease-in-out, background-color 100ms ease-in-out;
+}
+
+#des {
+    text-align: center;
+}
+
+form {
+    display: inline;
+}
