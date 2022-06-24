@@ -52,5 +52,10 @@ a {
     width: 130px;
     text-align: center;
     
-    
+    transition: box-shadow 250ms ease-in-out, color 250ms ease-in-out;
+}
+
+a:hover {
+    box-shadow: 0 0 100px 100px #0f0f0f inset;
+    color: #FFF;
 }
