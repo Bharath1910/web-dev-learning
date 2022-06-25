@@ -10,13 +10,13 @@
 - My first blog type site, Im very proud of it :D
 ---
 ![image](./src/03/second.png)
-- Changed some colors.. but it doesn't look that much great :(
+- Changed some colors.. and added the navbar but it doesn't look that much great :(
 
 ---
 ## Date: 22nd June 2022, Blog Site
 
 ![image](./src/03/third.png)
-- added a navbar, but still dont know how to style them properly :( time to learn CSS properly ;)
+- changed colors again, but still dont know how to style the navbar :( time to learn CSS properly ;)
 
 ---
 ## Date: 23rd June 2022, CSS!
