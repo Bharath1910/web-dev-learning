@@ -59,3 +59,46 @@ a:hover {
     box-shadow: 0 0 100px 100px #0f0f0f inset;
     color: #FFF;
 }
+
+@media screen and (max-width:425px) {
+    img {
+        width: 170px;
+        display: block;
+        margin-left: 35%;
+        margin-top: 50px;
+    }
+
+    h1 {
+        font-family: 'Anton';
+        font-size: 50px;
+        color: #0f0f0f;
+        letter-spacing: 5px;
+        text-align: center;
+        margin-top: -1px;
+    }
+
+    p {
+        font-size: 18px;
+        color: #46494b;
+        text-align: left;
+        margin-top: -35px;
+    }
+    
+    a {
+        display: block;
+        background-color: #FFF;
+        font-size: 30px;
+        text-decoration: none;
+        color: #0f0f0f;
+        border-color: #0f0f0f;
+        border-style: solid;
+        border-radius: 7px;
+        padding: 5px;
+        margin-left: 35%;
+        margin-top: 30px;
+        width: 130px;
+        text-align: center;
+        
+        transition: box-shadow 250ms ease-in-out, color 250ms ease-in-out;
+    }
+}
