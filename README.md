@@ -43,6 +43,8 @@
 - I have to study for university exams, so I won't be studying for next 3 to 4 days. Bye!
 ## Date: 2nd July 2022
 - Back from my studies and back to work!!
+- Completed the started project and it looks amazing :D
+
 ![image](./src/06/two.png)
 
 
