@@ -36,3 +36,13 @@
 
 ## Date: 25th June 2022
 - Got this idea of logging my progress into the README. it looks amazing :D
+
+## Date: 26th June 2022
+- started a new project
+![image](./src/06/one.png)
+- I have to study for university exams, so I won't be studying for next 3 to 4 days. Bye!
+## Date: 2nd July 2022
+- Back from my studies and back to work!!
+![image](./src/06/two.png)
+
+
