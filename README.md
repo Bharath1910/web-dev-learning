@@ -39,6 +39,7 @@
 
 ## Date: 26th June 2022
 - started a new project
+
 ![image](./src/06/one.png)
 - I have to study for university exams, so I won't be studying for next 3 to 4 days. Bye!
 ## Date: 2nd July 2022
@@ -49,6 +50,7 @@
 
 ## Date: 3rd July 2022
 - Started my new project! A registration site
+
 ![image](./src/07/one.png)
 
 
