@@ -38,19 +38,27 @@
 - Got this idea of logging my progress into the README. it looks amazing :D
 
 ## Date: 26th June 2022
-- started a new project
 
 ![image](./src/06/one.png)
+
+- started a new project
 - I have to study for university exams, so I won't be studying for next 3 to 4 days. Bye!
 ## Date: 2nd July 2022
-- Back from my studies and back to work!!
-- Completed the started project and it looks amazing :D
 
 ![image](./src/06/two.png)
 
+- Back from my studies and back to work!!
+- Completed the started project and it looks amazing :D
+
 ## Date: 3rd July 2022
-- Started my new project! A registration site
 
 ![image](./src/07/one.png)
 
+- Started my new project! A registration site
+
+## Date: 4th July 2022
+
+![image](./src/07/two.png)
+
+- Completed the registration project!!
 

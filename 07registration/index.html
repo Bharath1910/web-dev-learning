@@ -9,36 +9,40 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body>
-    <main>
-        <section class="flex">
-            <img src="./img/mobile.png" alt="mobile" class="mobile-design">
-        </section>
+    <main class="flex">
+        <div class="flex mobile-image">
+            <img src="./img/mobile.png" alt="mobile">
+        </div>
 
-        <section class="flex create-account">
-            <form class="">
-                <h1>Create Account</h1>
-                <div class="row">
-                    <input type="text" placeholder="First Name" class="div1">
-                    <input type="text" placeholder="Last Name" class="div2">
+        <div class="create-account">
+            <h1>Register Account</h1>
+            <form>
+                <div class="flex">
+                    <input type="text" placeholder="First Name">
+                    <input type="text" placeholder="Last Name">
+                </div>
+                <div class="flex">
+                    <input type="email" placeholder="Enter Your Email">
                 </div>
 
-                <input type="email" placeholder="Enter your email" class="div3">
-
-                <div class="div">
-                    <input type="password" placeholder="Enter Password" class="div4">
-                    <input type="password" placeholder="Confirm Password" class="div5">
+                <div class="flex">
+                    <input type="password" placeholder="Enter Your Password">
+                    <input type="password" placeholder="Confirm Your Password">
                 </div>
-                <button class="div6">Create Account</button>
-                
+
+                <div class="flex">
+                    <button class="blue-btn" type="submit">Create Account</button>
+                </div>
+
+                <p><span>OR</span></p>
+
+                <div class="flex">
+                    <button id="fb"><i class="fa-brands fa-facebook"></i> Facebook</button>
+                    <button id="tw"><i class="fa-brands fa-twitter"></i> Twitter</button>
+                </div>
             </form>
-            <p class="line div7"><span>OR</span></p>
-            
-            <div>
-                <button class="div8"><i class="fa-brands fa-facebook"></i> Facebook</button>
-                <button class="div9"><i class="fa-brands fa-twitter"></i> Twitter</button>
-            </div>
-        </section>
+        </div>
     </main>
-    <img src="./img/wave.svg" alt="wave-design" class="wave-design">
+    <img src="./img/wave.svg" class="wave-design">
 </body>
 </html>
