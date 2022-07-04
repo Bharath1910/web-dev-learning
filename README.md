@@ -62,3 +62,7 @@
 
 - Completed the registration project!!
 
+![image](./src/07/three.png)
+
+- Updated the project and now it looks more nicee!!
+
