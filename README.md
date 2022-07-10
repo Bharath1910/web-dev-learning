@@ -1,9 +1,12 @@
 # My Progress :)
+> I am trying to document everything I do while learning web development, so that in the future, I can look back and be proud of what I have achieved.
 
 ## Date: 20th June 2021, Hello World!
 ![image](./src/01/one.png)
+
 - Started web development Journey!!
 - I learnt a lot about Emmet!!
+
 ---
 ## Date: 21st June 2022, Blog Site
 ![image](./src/03/first.png)
@@ -36,6 +39,7 @@
 
 ## Date: 25th June 2022
 - Got this idea of logging my progress into the README. it looks amazing :D
+---
 
 ## Date: 26th June 2022
 
@@ -43,19 +47,21 @@
 
 - started a new project
 - I have to study for university exams, so I won't be studying for next 3 to 4 days. Bye!
+---
 ## Date: 2nd July 2022
 
 ![image](./src/06/two.png)
 
 - Back from my studies and back to work!!
 - Completed the started project and it looks amazing :D
-
+---
 ## Date: 3rd July 2022
 
 ![image](./src/07/one.png)
 
 - Started my new project! A registration site
 
+---
 ## Date: 4th July 2022
 
 ![image](./src/07/two.png)
@@ -66,3 +72,13 @@
 
 - Updated the project and now it looks more nicee!!
 
+---
+## Date: 5th July 2022
+
+- Started learning Javascript and I don't have any images to share right now ;)
+---
+## Date: 6th July 2022
+
+- Working on some pure HTML/CSS challenges, you can find them on my [challenges](https://github.com/Bharath1910/web-challanges/) repo ;)
+
+---
