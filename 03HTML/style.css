@@ -5,6 +5,10 @@ html {
     font-size: 25px;
 }
 
+body {
+    margin: 0 250px;
+}
+
 h1 {
     background-color: #646FD4;
     border-radius: 9px;
@@ -31,6 +35,7 @@ footer {
     padding: 20px;
     border-style: solid;
 }
+
 hr {
     color: aliceblue;
     border-width: 3px;
@@ -40,7 +45,7 @@ hr {
 .post {
     background-color: #646FD4;
     border-radius: 9px;
-    padding: 10px;
+    padding: 10px 50px;
     border-style: dashed;
     border-color: #9BA3EB;
 
